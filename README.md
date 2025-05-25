@@ -10,7 +10,7 @@ pipeline to rebuild and publish DNS records to Hex.Camp.
 
 This section is used for test commits to see if events are being picked up by Knative.
 
-* test2
+* test3
 
 # License
 
